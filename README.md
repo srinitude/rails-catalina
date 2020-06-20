@@ -2,12 +2,12 @@ This guide assumes no prior programming experience and is just one example of ho
 
 # Table of Contents
 
-- [Terminal/Shell Resources](#terminal-shell-resources)
+- [Terminal and Shell Resources](#terminal-and-shell-resources)
 - [Text Editors](#text-editors)
 - [Git and Github](#git-and-github)
 - [Vagrant](#vagrant)
 - [HTML](#html)
-- [CSS and SASS/SCSS](#css-and-sass-scss)
+- [CSS and SASS](#css-and-sass)
 - [JavaScript](#javascript)
 - [SQL](#sql)
 - [Ruby](#ruby)
@@ -15,7 +15,7 @@ This guide assumes no prior programming experience and is just one example of ho
 - [Deploying Your App](#deploying-your-app)
 
 
-## Terminal/Shell Resources
+## Terminal and Shell Resources
 
 When running Catalina, stick with the default zsh shell that the terminal comes with, instead of bash. However, it seems like a lot of the commands used in the zsh shell are similar to bash, so here are some bash resources.
 
@@ -72,7 +72,7 @@ HTML is text that the browser parses with its own code behind-the-scenes to crea
 - https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML (You’ll find out that Mozilla is one of the best when it comes to web-related resources)
 - https://developer.mozilla.org/en-US/ (Reference for all things web, no need to read it all at once)
 
-## CSS and SASS/SCSS
+## CSS and SASS
 
 CSS is text that the browser parses with its own code behind-the-scenes to style a webpage
 
