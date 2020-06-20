@@ -2,17 +2,17 @@ This guide assumes no prior programming experience and is just one example of ho
 
 # Table of Contents
 
-[Terminal/Shell Resources](#terminal-shell-resources)
-[Text Editors](#text-editors)
-[Git and Github](#git-and-github)
-[Vagrant](#vagrant)
-[HTML](#html)
-[CSS and SASS/SCSS](#css-and-sass-scss)
-[JavaScript](#javascript)
-[SQL](#sql)
-[Ruby](#ruby)
-[Ruby on Rails](#ruby-on-rails)
-[Deploying Your App](#deploying-your-app)
+- [Terminal/Shell Resources](#terminal-shell-resources)
+- [Text Editors](#text-editors)
+- [Git and Github](#git-and-github)
+- [Vagrant](#vagrant)
+- [HTML](#html)
+- [CSS and SASS/SCSS](#css-and-sass-scss)
+- [JavaScript](#javascript)
+- [SQL](#sql)
+- [Ruby](#ruby)
+- [Ruby on Rails](#ruby-on-rails)
+- [Deploying Your App](#deploying-your-app)
 
 
 ## Terminal/Shell Resources
